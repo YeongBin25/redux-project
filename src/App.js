@@ -8,7 +8,8 @@ import {
 
 import { Navbar } from './app/Navbar'
 
-import { PostsList } from './features/posts/PostList'
+import { PostsList } from './features/posts/PostsList'
+import { AddPostForm } from './features/posts/AddPostForm'
 
 function App() {
   return (
